@@ -1,1 +1,1 @@
-# trivy-ci-test
+# trivy-ci-testTriggering Trivy scan 🚀
